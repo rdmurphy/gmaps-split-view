@@ -1,0 +1,21 @@
+#map_container {
+  width: 957px;
+  border: 1.5px solid black;
+  margin: 10px auto;
+  background-color: black;
+}
+
+.map_preload {
+  position: absolute;
+  left: -4000px;
+}
+
+.map_canvas {
+  width: 478px;
+  height: 598px;
+}
+
+#map_left {
+  float: left;
+  margin-right: 1px;
+}
